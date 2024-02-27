@@ -12,5 +12,5 @@ const todoRoutes = require('./routes/todos');
 app.use("/todos", todoRoutes);
 
 mongoose.connect(key)
-.then(() => app.listen(8080, (req, res) => res.json({"Welcome Ccript Server"})))
+.then(() => app.listen(8080, (req, res) => res.send("Welcome Ccript Server")))
 .catch((err) => console.log(err));
