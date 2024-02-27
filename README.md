@@ -24,7 +24,7 @@ You can start editing the page by modifying `/index.js`. The server auto-updates
 3. [nodemon](https://www.npmjs.com/package/nodemon): A simple Re-starting scipt to handle frequent changes in the server.
 4. No other dependency has been used, in order to keep the project as simple as possible.
 
-## Databae
+## Database
 
 MongoDb an Object Model (NoSQL) database has been adopted, as per the assessment requirements.
 
