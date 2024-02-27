@@ -13,7 +13,6 @@ yarn dev
 ```
 
 Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
-This Project consist of only a single page
 
 You can start editing the page by modifying `/index.js`. The server auto-updates as you edit the file & save due to [nodemon]([[https://v1.tailwindcss.com/](https://mongoosejs.com/](https://www.npmjs.com/package/nodemon))).
 
