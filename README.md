@@ -12,17 +12,17 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
 This Project consist of only a single page
 
 You can start editing the page by modifying `/index.js`. The server auto-updates as you edit the file & save due to [nodemon]([[https://v1.tailwindcss.com/](https://mongoosejs.com/](https://www.npmjs.com/package/nodemon))).
 
 ## Project Dependencies
 
-1. [Express]([https://axios-http.com/docs/intro](https://expressjs.com/): To write less code & add more features to the plain Node.js server.
-2. [Cors]([https://momentjs.com/](https://www.npmjs.com/package/cors)): To enable Cross-Origin requests for API calls.
-3. [Mongoose]([https://v1.tailwindcss.com/](https://mongoosejs.com/)): A better Object Model library than mongoDb, to easily get started with MongoDb.
-3. [nodemon]([[https://v1.tailwindcss.com/](https://mongoosejs.com/](https://www.npmjs.com/package/nodemon))): A simple Re-starting scipt to handle frequent changes in the server.
+1. [Express](https://expressjs.com/): To write less code & add more features to the plain Node.js server.
+2. [Cors](https://www.npmjs.com/package/cors): To enable Cross-Origin requests for API calls.
+3. [Mongoose](https://mongoosejs.com/): A better Object Model library than mongoDb, to easily get started with MongoDb.
+3. [nodemon](https://www.npmjs.com/package/nodemon): A simple Re-starting scipt to handle frequent changes in the server.
 4. No other dependency has been used, in order to keep the project as simple as possible.
 
 ## Databae
