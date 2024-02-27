@@ -12,7 +12,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
+Open [http://localhost:8080](http://localhost:8080/todos/) with your browser to see the result, which might be an empty array if no records created.
 
 You can start editing the page by modifying `/index.js`. The server auto-updates as you edit the file & save due to [nodemon]([[https://v1.tailwindcss.com/](https://mongoosejs.com/](https://www.npmjs.com/package/nodemon))).
 
